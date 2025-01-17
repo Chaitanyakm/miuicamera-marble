@@ -5,7 +5,7 @@
 #
 
 # Inherit from the proprietary version
-$(call inherit-product, vendor/xiaomi/miuicamera-cupid/miuicamera-cupid-vendor.mk)
+$(call inherit-product, vendor/xiaomi/miuicamera-marble/miuicamera-marble-vendor.mk)
 
 # Public libraries
 PRODUCT_COPY_FILES += \
